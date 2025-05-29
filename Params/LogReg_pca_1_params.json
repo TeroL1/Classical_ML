@@ -1,0 +1,7 @@
+{
+    "tol": 1e-06,
+    "penalty": "l2",
+    "max_iter": 100,
+    "l1_ratio": 0.9,
+    "C": 1.0
+}

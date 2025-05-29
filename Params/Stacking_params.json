@@ -1,0 +1,7 @@
+{
+    "tol": 0.0001,
+    "penalty": "elasticnet",
+    "max_iter": 200,
+    "l1_ratio": 0.9,
+    "C": 0.1
+}

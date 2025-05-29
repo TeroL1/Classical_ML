@@ -1,0 +1,6 @@
+{
+    "weights": "uniform",
+    "p": Infinity,
+    "n_neighbors": 75,
+    "algorithm": "brute"
+}
